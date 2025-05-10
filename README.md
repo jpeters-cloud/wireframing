@@ -53,3 +53,8 @@ Wireframes represent functional elements through placeholders and annotations â€
 ---
 
 These elements work together to shape the user experience and ensure that both users and developers understand how the interface will operate before moving on to visual design or development.
+
+
+## Types of Wireframes
+
+
