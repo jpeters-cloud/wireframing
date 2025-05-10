@@ -164,6 +164,37 @@ Wireframes keep the user experience at the forefront by forcing teams to think t
 
 **Example:** A mobile-first wireframe ensures key actions like "Book Now" are placed prominently for better accessibility on small screens.
 
+## Real-World Scenario: Identifying Usability Issues Through Wireframing
+
+### Scenario:
+During the early design phase of a hotel booking application similar to Airbnb, the product team created high-fidelity wireframes for the booking process. The initial design included a multi-step form for selecting check-in/check-out dates, entering guest details, and making payments — all displayed on a single scrolling page.
+
+### Problem Identified:
+When the design was shared with potential users and stakeholders, wireframes revealed that:
+
+- Users felt overwhelmed by the long, unsegmented form.
+- Important sections like payment details were often skipped or missed.
+- On mobile devices, the flow was especially difficult to navigate due to excessive scrolling.
+
+### How Wireframing Helped:
+Before development began, the team used feedback from wireframe testing to:
+
+- Break the process into a **step-by-step wizard interface** (one section per screen).
+- Add progress indicators to show users how far along they were.
+- Rearrange form fields so the most critical inputs appeared first.
+
+These changes were made within the wireframing tool (Figma), saving significant time and cost compared to adjusting the logic and UI post-development.
+
+### Impact on Final Product:
+- The new design improved **task completion rates** during user testing.
+- There were **fewer user errors** during checkout.
+- Stakeholders were more confident moving into the development phase.
+
+---
+
+### Conclusion: The Role of Wireframing in Design Success
+
+Wireframing acts as a visual planning tool that surfaces usability challenges **before code is written**. It bridges communication be
 
 
 
